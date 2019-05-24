@@ -1,0 +1,10 @@
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\蕨类植物\Q\1七指蕨科\1七指蕨属\1七指蕨@1@statecode1
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\蕨类植物\Q\2球子蕨科\1球子蕨科未鉴定@2@statecode1
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\蕨类植物\Q\2球子蕨科\2\1东方荚果蕨@3@statecode1
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\蕨类植物\Q\2球子蕨科\2\2东方荚果蕨@4@statecode1
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\蕨类植物\Q\2球子蕨科\2\3中华荚果蕨@5@statecode1
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\蕨类植物\Q\2球子蕨科\3荚果蕨属\1荚果蕨属未鉴定@6@statecode1
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\蕨类植物\Q\2球子蕨科\3荚果蕨属\2荚果蕨@7@statecode1
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\蕨类植物\Q\2球子蕨科\4球子蕨属\1球子蕨属未鉴定@8@statecode1
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\蕨类植物\Q\2球子蕨科\4球子蕨属\2球子蕨@9@statecode1
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\蕨类植物\Q\2球子蕨科\4球子蕨属\3球子蕨@10@statecode1

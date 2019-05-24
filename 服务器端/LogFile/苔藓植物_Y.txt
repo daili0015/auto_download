@@ -1,0 +1,16 @@
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\Y\1疣冠苔科\1石地钱属\1石地钱@1@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\Y\3羽苔科\1羽苔属\1刺叶羽苔@2@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\Y\4油藓科\1白藓属\1白藓@3@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\Y\4油藓科\2日本毛柄藓属\1日本毛柄藓@4@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\Y\5羽藓科\1羽藓科未鉴定@5@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\Y\5羽藓科\2锦丝藓属\1锦丝藓属未鉴定@6@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\Y\5羽藓科\2锦丝藓属\2锦丝藓@7@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\Y\5羽藓科\3麻羽藓属\1麻羽藓属未鉴定@8@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\Y\5羽藓科\3麻羽藓属\2大麻羽藓@9@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\Y\5羽藓科\3麻羽藓属\3狭叶麻羽藓@10@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\Y\5羽藓科\4小羽藓属\1小羽藓属未鉴定@11@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\Y\5羽藓科\4小羽藓属\2细叶小羽藓@12@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\Y\5羽藓科\5羽藓属\1羽藓属未鉴定@13@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\Y\5羽藓科\5羽藓属\2短肋羽藓@14@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\Y\5羽藓科\5羽藓属\3大羽藓@15@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\Y\5羽藓科\5羽藓属\4灰羽藓@16@statecode3

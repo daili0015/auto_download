@@ -1,0 +1,13 @@
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\裸子植物\Y\1银杏科\1银杏科未鉴定@1@statecode1
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\裸子植物\Y\1银杏科\2银杏属\10无心银杏@2@statecode1
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\裸子植物\Y\1银杏科\2银杏属\11小佛手@3@statecode1
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\裸子植物\Y\1银杏科\2银杏属\12银杏@4@statecode1
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\裸子植物\Y\1银杏科\2银杏属\1银杏属未鉴定@5@statecode1
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\裸子植物\Y\1银杏科\2银杏属\2大梅核@6@statecode1
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\裸子植物\Y\1银杏科\2银杏属\3洞庭皇@7@statecode1
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\裸子植物\Y\1银杏科\2银杏属\4佛指@8@statecode1
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\裸子植物\Y\1银杏科\2银杏属\5黄山梅核银杏@9@statecode1
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\裸子植物\Y\1银杏科\2银杏属\6金兵卫银杏@10@statecode1
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\裸子植物\Y\1银杏科\2银杏属\7金黄丸银杏@11@statecode1
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\裸子植物\Y\1银杏科\2银杏属\8灵川大佛手银杏@12@statecode1
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\裸子植物\Y\1银杏科\2银杏属\9泰兴大白果@13@statecode1

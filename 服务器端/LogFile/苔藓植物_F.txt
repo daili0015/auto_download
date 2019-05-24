@@ -1,0 +1,5 @@
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\F\1凤尾藓科\1凤尾藓属\1凤尾藓属未鉴定@1@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\F\1凤尾藓科\1凤尾藓属\2大凤尾藓@2@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\F\1凤尾藓科\1凤尾藓属\3黄叶凤尾藓@3@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\F\1凤尾藓科\1凤尾藓属\4卷叶凤尾藓@4@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\F\1凤尾藓科\1凤尾藓属\5鳞叶凤尾藓@5@statecode3

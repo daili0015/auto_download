@@ -1,0 +1,16 @@
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\Q\1钱苔科\1浮苔属\1浮苔@1@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\Q\1钱苔科\2钱苔属\1钱苔属未鉴定@2@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\Q\1钱苔科\2钱苔属\2叉钱苔@3@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\Q\1钱苔科\2钱苔属\3片叶钱苔@4@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\Q\1钱苔科\2钱苔属\4钱苔@5@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\Q\2曲尾藓科\1曲尾藓科未鉴定@6@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\Q\2曲尾藓科\2曲柄藓属\1@7@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\Q\2曲尾藓科\2曲柄藓属\2脆枝曲柄藓@8@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\Q\2曲尾藓科\2曲柄藓属\3曲柄藓@9@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\Q\2曲尾藓科\3曲尾藓属\1四川曲尾藓@10@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\Q\2曲尾藓科\4山毛藓属\1山毛藓@11@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\Q\3青藓科\1青藓科未鉴定@12@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\Q\3青藓科\2长喙藓属\1长喙藓属未鉴定@13@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\Q\3青藓科\2长喙藓属\2淡枝长喙藓@14@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\Q\3青藓科\3美喙藓属\1密叶美喙藓@15@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\Q\3青藓科\4鼠尾藓属@16@statecode3

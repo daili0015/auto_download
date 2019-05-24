@@ -1,0 +1,9 @@
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\X\1细鳞苔科\1细鳞苔科未鉴定@1@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\X\1细鳞苔科\2薄鳞苔属\1尖叶薄鳞苔@2@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\X\1细鳞苔科\3瓦鳞苔属\1南亚瓦鳞苔@3@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\X\1细鳞苔科\4细鳞苔属\1暗绿细鳞苔@4@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\X\1细鳞苔科\4细鳞苔属\2黄色细鳞苔@5@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\X\1细鳞苔科\5折叶顶鳞苔属@6@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\X\2溪苔科\1溪苔属\1溪苔属未鉴定@7@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\X\2溪苔科\1溪苔属\2花叶溪苔@8@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\X\2溪苔科\1溪苔属\3溪苔@9@statecode3

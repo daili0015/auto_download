@@ -1,0 +1,5 @@
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\M\1木灵藓科\1蓑藓属@1@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\M\1木灵藓科\2直叶藓属@2@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\M\2棉藓科\1棉藓属\1棉藓属未鉴定@3@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\M\2棉藓科\1棉藓属\2直叶棉藓@4@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\M\3蔓藓科@5@statecode3

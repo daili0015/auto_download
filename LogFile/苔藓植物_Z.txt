@@ -1,0 +1,16 @@
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\Z\1紫萼藓科\1紫萼藓属\1高山紫萼藓@1@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\Z\2珠藓科\1珠藓科未鉴定@2@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\Z\2珠藓科\2珠藓属\1直叶珠藓@3@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\Z\2珠藓科\3泽藓属\1泽藓属未鉴定@4@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\Z\2珠藓科\3泽藓属\2柔叶泽藓@5@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\Z\3真藓科\1真藓科未鉴定@6@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\Z\3真藓科\2短月藓属@7@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\Z\3真藓科\3大叶藓属\1大叶藓属未鉴定@8@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\Z\3真藓科\3大叶藓属\2大叶藓@9@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\Z\3真藓科\3大叶藓属\3暖地大叶藓@10@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\Z\3真藓科\4丝瓜藓属@11@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\Z\3真藓科\5真藓属\1真藓属未鉴定@12@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\Z\3真藓科\5真藓属\2比拉真藓@13@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\Z\3真藓科\5真藓属\3双色真藓@14@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\Z\3真藓科\5真藓属\4真藓@15@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\Z\4指叶苔科\1鞭苔属\1三裂鞭苔@16@statecode3

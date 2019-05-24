@@ -1,0 +1,10 @@
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\T\1提灯藓科\1提灯藓科未鉴定@1@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\T\1提灯藓科\2匍灯藓属\1匍灯藓属未鉴定@2@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\T\1提灯藓科\2匍灯藓属\2匐灯藓@3@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\T\1提灯藓科\2匍灯藓属\3尖叶匐灯藓@4@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\T\1提灯藓科\3提灯藓属\1提灯藓属未鉴定@5@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\T\1提灯藓科\3提灯藓属\2提灯藓@6@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\T\1提灯藓科\4疣灯藓属\1疣灯藓@7@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\T\2塔藓科\3塔藓属\1塔藓@8@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\T\3苔藓植物\1苔藓植物未鉴定@9@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\T\3苔藓植物\2苔藓植物\1苔藓@10@statecode3

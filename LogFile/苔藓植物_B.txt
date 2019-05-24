@@ -1,0 +1,8 @@
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\B\2扁萼苔科\1扁萼苔属\1扁萼苔属未鉴定@1@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\B\2扁萼苔科\1扁萼苔属\2爪哇扁萼苔@2@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\B\3白发藓科\1白发藓科未鉴定@3@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\B\3白发藓科\2白发藓属\1白发藓属未鉴定@4@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\B\3白发藓科\2白发藓属\2白发藓@5@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\B\3白发藓科\2白发藓属\3狭叶白发藓@6@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\B\4薄罗藓科\1拟草藓属\1拟草藓@7@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\B\4薄罗藓科\2细枝藓属\1中华细枝藓@8@statecode3

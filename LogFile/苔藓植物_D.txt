@@ -1,0 +1,7 @@
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\D\1短角苔科\1短角苔属\1东亚短角苔@1@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\D\2地钱科\1地钱科未鉴定@2@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\D\2地钱科\2地钱属\1地钱属未鉴定@3@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\D\2地钱科\2地钱属\2地钱@4@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\D\2地钱科\2地钱属\3东亚地钱@5@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\D\2地钱科\2地钱属\4瘤鳞地钱@6@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\D\3单月苔科\1单月苔属\1单月苔@7@statecode3

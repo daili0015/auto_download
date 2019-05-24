@@ -1,0 +1,4 @@
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\蕨类植物\D\1蓧蕨科\1条蕨属\1波边条蕨@1@statecode1
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\蕨类植物\D\1蓧蕨科\1条蕨属\2高山条蕨@2@statecode1
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\蕨类植物\D\1蓧蕨科\1条蕨属\3光叶条蕨@3@statecode1
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\蕨类植物\D\1蓧蕨科\1条蕨属\4华南条蕨@4@statecode1

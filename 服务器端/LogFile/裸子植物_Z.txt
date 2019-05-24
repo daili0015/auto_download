@@ -1,0 +1,17 @@
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\裸子植物\Z\1泽米铁科\1泽米铁科未鉴定@1@statecode1
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\裸子植物\Z\1泽米铁科\2非洲苏铁属\10休得布朗非洲铁@2@statecode1
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\裸子植物\Z\1泽米铁科\2非洲苏铁属\1非洲苏铁属未鉴定@3@statecode1
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\裸子植物\Z\1泽米铁科\2非洲苏铁属\2刺叶非洲铁@4@statecode1
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\裸子植物\Z\1泽米铁科\2非洲苏铁属\3长籽苏铁@5@statecode1
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\裸子植物\Z\1泽米铁科\2非洲苏铁属\4短刺叶非洲铁@6@statecode1
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\裸子植物\Z\1泽米铁科\2非洲苏铁属\5弗氏非洲铁@7@statecode1
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\裸子植物\Z\1泽米铁科\2非洲苏铁属\6合意非洲铁@8@statecode1
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\裸子植物\Z\1泽米铁科\2非洲苏铁属\7锦毛大苏铁@9@statecode1
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\裸子植物\Z\1泽米铁科\2非洲苏铁属\8兰波姆波非洲铁@10@statecode1
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\裸子植物\Z\1泽米铁科\2非洲苏铁属\9柔毛非洲铁@11@statecode1
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\裸子植物\Z\1泽米铁科\3泽米铁属\1泽米铁属未鉴定@12@statecode1
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\裸子植物\Z\1泽米铁科\3泽米铁属\2矮泽米@13@statecode1
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\裸子植物\Z\1泽米铁科\3泽米铁属\3多色泽米铁@14@statecode1
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\裸子植物\Z\1泽米铁科\3泽米铁属\4鳞秕泽米@15@statecode1
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\裸子植物\Z\1泽米铁科\3泽米铁属\5美洲泽米@16@statecode1
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\裸子植物\Z\1泽米铁科\3泽米铁属\6泽米苏铁@17@statecode1

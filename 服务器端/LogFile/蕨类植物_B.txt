@@ -1,0 +1,7 @@
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\蕨类植物\B\1柄盖蕨科\1鱼鳞蕨属\1鱼鳞蕨属未鉴定@1@statecode1
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\蕨类植物\B\1柄盖蕨科\1鱼鳞蕨属\2鱼鳞蕨@2@statecode1
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\蕨类植物\B\2蚌壳蕨科\1蚌壳蕨科未鉴定@3@statecode1
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\蕨类植物\B\2蚌壳蕨科\2蚌壳蕨属\1塔斯马尼亚蚌壳@4@statecode1
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\蕨类植物\B\2蚌壳蕨科\3金毛狗属\1金毛狗属未鉴定@5@statecode1
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\蕨类植物\B\2蚌壳蕨科\3金毛狗属\2菲律宾金毛狗蕨@6@statecode1
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\蕨类植物\B\2蚌壳蕨科\3金毛狗属\3金毛狗@7@statecode1

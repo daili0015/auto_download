@@ -1,0 +1,13 @@
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\蕨类植物\P\1瓶尔小草科\1瓶尔小草属\1瓶尔小草属未鉴定@1@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\蕨类植物\P\1瓶尔小草科\1瓶尔小草属\2裸茎瓶尔小草@2@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\蕨类植物\P\1瓶尔小草科\1瓶尔小草属\3钝头瓶尔小草@3@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\蕨类植物\P\1瓶尔小草科\1瓶尔小草属\4带状瓶尔小草@4@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\蕨类植物\P\1瓶尔小草科\1瓶尔小草属\5高山瓶尔小草@5@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\蕨类植物\P\1瓶尔小草科\1瓶尔小草属\6瓶尔小草@6@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\蕨类植物\P\1瓶尔小草科\1瓶尔小草属\7狭叶瓶尔小草@7@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\蕨类植物\P\1瓶尔小草科\1瓶尔小草属\8心脏叶瓶尔小草@8@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\蕨类植物\P\2蘋科\1蘋属\1蘋属未鉴定@9@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\蕨类植物\P\2蘋科\1蘋属\2埃及蘋@10@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\蕨类植物\P\2蘋科\1蘋属\3南国田字草@11@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\蕨类植物\P\2蘋科\1蘋属\4蘋@12@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\蕨类植物\P\3苹科@13@statecode3

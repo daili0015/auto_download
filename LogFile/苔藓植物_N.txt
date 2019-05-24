@@ -1,0 +1,9 @@
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\N\1牛毛藓科\1角齿藓属\1角齿藓@1@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\N\1牛毛藓科\2牛毛藓属\1黄牛毛藓@2@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\N\1牛毛藓科\2牛毛藓属\2牛毛藓@3@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\N\2牛舌藓科\1牛舌藓属\1牛舌藓@4@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\N\2牛舌藓科\2羊角藓属\1羊角藓@5@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\N\3泥炭藓科\1泥炭藓属\1泥炭藓属未鉴定@6@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\N\3泥炭藓科\1泥炭藓属\2广舌泥炭藓@7@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\N\3泥炭藓科\1泥炭藓属\3暖地泥炭藓@8@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\N\3泥炭藓科\1泥炭藓属\4泥炭藓@9@statecode3

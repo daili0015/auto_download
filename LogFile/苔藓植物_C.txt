@@ -1,0 +1,16 @@
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\C\1齿萼苔科\1裂萼苔属\1双齿裂萼苔@1@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\C\1齿萼苔科\1裂萼苔属\2芽胞裂萼苔@2@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\C\1齿萼苔科\2异萼苔属\1@3@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\C\1齿萼苔科\2异萼苔属\2叉齿异萼苔@4@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\C\1齿萼苔科\2异萼苔属\3平叶异萼苔@5@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\C\1齿萼苔科\2异萼苔属\4四齿异萼苔@6@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\C\2叉苔科\1叉苔属\1叉苔属未鉴定@7@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\C\2叉苔科\1叉苔属\2蓝叉苔@8@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\C\2叉苔科\1叉苔属\3平叉苔@9@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\C\3丛藓科\1丛藓科未鉴定@10@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\C\3丛藓科\2毛口藓属@11@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\C\3丛藓科\3墙藓属\1墙藓@12@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\C\3丛藓科\4湿地藓属\1卷叶湿地藓@13@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\C\3丛藓科\4湿地藓属\2湿地藓@14@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\C\3丛藓科\6小石藓属\1小石藓属未鉴定@15@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\苔藓植物\C\3丛藓科\6小石藓属\2缺齿小石藓@16@statecode3

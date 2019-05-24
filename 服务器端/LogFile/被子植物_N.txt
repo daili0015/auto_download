@@ -1,0 +1,8 @@
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\被子植物\N\1牛栓藤科\1单叶豆属\1单叶豆@1@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\被子植物\N\1牛栓藤科\2红叶藤属\2红叶藤@2@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\被子植物\N\1牛栓藤科\2红叶藤属\3小叶红叶藤@3@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\被子植物\N\1牛栓藤科\3栗豆藤属\1栗豆藤属未鉴定@4@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\被子植物\N\1牛栓藤科\3栗豆藤属\2栗豆藤@5@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\被子植物\N\1牛栓藤科\4牛栓藤属\1牛栓藤属未鉴定@6@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\被子植物\N\1牛栓藤科\4牛栓藤属\2牛栓藤@7@statecode3
+D:\MyProjectFile\Python\studyproject\Python3\selenium_study2\database\被子植物\N\1牛栓藤科\4牛栓藤属\3云南牛栓藤@8@statecode3

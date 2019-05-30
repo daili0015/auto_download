@@ -2,7 +2,7 @@
 #-*-coding:utf-8-*-
 
 #处理任务log的类，可以获取新的task，改变制定行task的状态码，封装一个task数据包
-# 这里是下载植物图像库的task，每一个task定义为全部下载一个3级view下的所有图片
+# 这里是下载图像库的task，每一个task定义为全部下载一个3级view下的所有图片
 #task数据包的格式，相对与database的路径；状态码；所属编号
 from FileRobotClass import FileRobot
 import os,sys,codecs
@@ -13,7 +13,7 @@ line_num_store=1
 # database_path=FRobot.get_deep_folder_path(home_path,'database')
 # log_path=FRobot.get_deep_folder_path(home_path,'LogFile')
 
-num2text={2:'苔藓植物',3:'蕨类植物',4:'裸子植物',5:'被子植物'}
+num2text={2:'a植物',3:'b植物',4:'c植物',5:'d植物'}
 class TaskLog():
 	def __init__(self,input_log_path='',input_database_path=''):
 		self.log_path=input_log_path
